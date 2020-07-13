@@ -4,6 +4,7 @@ body {
     background-image: url(https://castirondesign.com/assets/transformed/containers/371824ca-f79e-4c67-b427-f6e897ade3c1/covers/cast-iron-design_logos-marks---icons-00-cover-2019.jpg/2cbcc60c124f8e955a4b30ec18839178.jpg);
     padding: 10px;
     margin: 0;
+    background-attachment: fixed;
 }
 h1 {
     font-size: 15pt;
@@ -74,7 +75,7 @@ h2{
 }
 
 
-.rem {
+.closebtn {
 	position: center ;
     margin-left: : 5px;
     background-color: #778ca3;
@@ -110,6 +111,6 @@ h2{
 	margin-left: 540px;
 
 }
-#add{
+#update{
 	background-color:deepSkyBlue;
 }
