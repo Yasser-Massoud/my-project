@@ -1,0 +1,115 @@
+body {
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    background-image: url(https://castirondesign.com/assets/transformed/containers/371824ca-f79e-4c67-b427-f6e897ade3c1/covers/cast-iron-design_logos-marks---icons-00-cover-2019.jpg/2cbcc60c124f8e955a4b30ec18839178.jpg);
+    padding: 10px;
+    margin: 0;
+}
+h1 {
+    font-size: 15pt;
+    color: #20bcd5;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+h1 span {
+    border: 4px dashed #20bcd5;
+    padding: 10px;
+}
+p {
+    padding: 0;
+    margin: 0;
+}
+.img-circle {
+    border: 3px solid white;
+    border-radius: 50%;
+}
+.section {
+    background-color: #778ca3;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+#header {
+    
+    background-size: cover;
+}
+#header img {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
+#header p {
+    font-size: 25pt;
+    color: #3b464c;
+    padding-top: 30px;
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+}
+.quote {
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+}
+h2{
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: #1abc9c;
+    text-align: center;
+    border: 4px dashed #20bcd5;
+    padding: 5px;
+
+}
+.target {
+	
+	
+    background-color: #778ca3;
+    padding: 40px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+
+.rem {
+	position: center ;
+    margin-left: : 5px;
+    background-color: #778ca3;
+    color: red;
+    border: none;
+    cursor: pointer;
+}
+.pos{
+	position: relative;
+	margin-left: 540px;
+
+}
+
+#contacts img {
+	background-color: #778ca3;
+    height: 50px;
+    width: 50px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#contacts a {
+    text-decoration: none;
+}
+#contacts img:hover {
+    opacity: 0.8;
+}
+#contacts {
+    text-align: center;
+}
+
+.pos2{
+	position: relative;
+	margin-left: 540px;
+
+}
+#add{
+	background-color:deepSkyBlue;
+}
