@@ -33,24 +33,3 @@
     }
     }}
 
- // it work with javascript and jquery . 
-
-
-
-//-------------------------------------------------------
-  
-/*window.onload = function(){
-
-    $("#update").click(function() {
-        var val = $("userInput").val();
-        if(val !== '') {
-            var elem = $("<li></li>").text(val);
-            $(elem).append("<button class='closebtn'>X</button>");
-            $("#mylist").append(elem);
-            //$("userInput").val("");
-            $(".closebtn").click( function() {
-                $(this).parent().hide('slow')
-            });
-        }
-    });
-};*/
